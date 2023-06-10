@@ -1,0 +1,35 @@
+{
+	"student": [{
+		"firstName": "Ivan",
+		"lastName": "Popovich",
+		"weight": 85,
+		"blond": true,
+		"dog": null,
+		"car": null,
+		"age": 23,
+		"blogger": true,
+		"wife": null,
+		"family": ["Father", "Mother", "Sister"],
+		"address": {
+			"country": "UA",
+			"city": "Donbas",
+			"zip": "022213",
+			"postal": true
+		},
+		"teachers": [{
+				"firstName": "Marry",
+				"lastName": "Kirovna",
+				"age": 54,
+				"professor": false,
+				"courses": [ "physics", "mathematics"]
+			},
+			{
+				"firstName": "Vadym",
+				"lastName": "Herasko",
+				"age": 33,
+				"professor": true,
+				"courses": [ "chemistry", "PE"]
+			}
+		]
+	}]
+}
