@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+    <firstName>Ivan</firstName>
+    <lastName>Popovich</lastName>
+    <weight>85</weight>
+    <blond>yes</blond>
+    <dog>unknown</dog>
+    <car>unknown</car> 
+    <age>23</age>
+    <blogger>yes</blogger>
+    <wife>unknown</wife>
+    <family>Father</family>
+    <family>Mother</family>
+    <family>Sister</family>
+    <address>
+        <country>UA</country>
+        <city>Donbas</city>
+        <zip>022213</zip>
+        <postal>true</postal>
+    </address>
+    <teachers>
+        <firstName>Marry</firstName>
+        <lastName>Kirovna</lastName>
+        <age>54</age>
+        <professor>no</professor>
+        <courses>physics</courses>
+        <courses>mathematics</courses>
+    </teachers>
+    <teachers>
+        <firstName>Vadym</firstName>
+        <lastName>Herasko</lastName>
+        <age>33</age>
+        <professor>yes</professor>
+        <courses>chemistry</courses>
+        <courses>PE</courses>
+    </teachers>
+</student>
